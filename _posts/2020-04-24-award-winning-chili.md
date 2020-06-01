@@ -1,6 +1,6 @@
 ---
-title: Award Winning Chili
 layout: post
+title: Award Winning Chili
 ---
 ### Ingredients
 

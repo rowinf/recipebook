@@ -1,6 +1,6 @@
 ---
-title: Feijoa Crumble Muffin Recipe
 layout: post
+title: Feijoa Crumble Muffin Recipe
 ---
 ### Ingredients
 - 1 1/3 cup standard flour

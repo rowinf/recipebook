@@ -1,6 +1,6 @@
 ---
-title: Cumin Rice
 layout: post
+title: Cumin Rice
 ---
 ### Ingredients
 - 1 small onion

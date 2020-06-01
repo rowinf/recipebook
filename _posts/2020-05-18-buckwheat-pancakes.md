@@ -1,6 +1,6 @@
 ---
-title: Buckwheat Pancakes
 layout: post
+title: Buckwheat Pancakes
 ---
 /selective-focus-of-pile-of-pan-cakes-730922.jpg
 

@@ -1,6 +1,6 @@
 ---
-title: Berry Crumble Muffins
 layout: post
+title: Berry Crumble Muffins
 ---
 ### Ingredients
 - 1 cup blueberries, raspberries or blackberries fresh or frozen

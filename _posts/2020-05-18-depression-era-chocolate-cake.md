@@ -1,6 +1,6 @@
 ---
-title: Depression-era Chocolate Cake
 layout: post
+title: Depression-era Chocolate Cake
 ---
 # Depression-era Chocolate Cake
 

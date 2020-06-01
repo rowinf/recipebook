@@ -1,6 +1,6 @@
 ---
-title: Finger licking pan fried chicken
 layout: post
+title: Finger licking pan fried chicken
 ---
 ### Ingredients
 - 6 Boneless skinless chicken breasts

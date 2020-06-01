@@ -1,6 +1,6 @@
 ---
-title: Enchiladas
 layout: post
+title: Enchiladas
 ---
 ### Ingredients
 - 1 cup salsa
@@ -28,7 +28,5 @@ layout: post
 2. Ladle 1/2 cup of the salsa into a 9" x 12" baking pan
 3. Put 1/4 cup of the beef or beans in the centre of each tortilla. Add 2 tablespoons shredded cheese. Roll up and place in baking pan.
 4. When all the enchiladas are in the baking pan, cover with the remaining sauce and cheese. Bake for 15-20 minutes. Remove from the oven and garnish with cilantro.
-1. Heat oil in a skillet over medium-high heat. Stir in flour and chili powder, reduce heat to medium, and cook until lightly brown, stirring constantly to prevent burning flour. 
-2. Gradually stir in tomato sauce, water, cumin, garlic powder, and onion salt into the flour and chili powder until smooth, and continue cooking over medium heat approximately 10 minutes, or until thickened slightly. Season to taste with salt. 
 
 > The Everything Easy Mexican Cookbook

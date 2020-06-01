@@ -1,6 +1,6 @@
 ---
-title: No Hurry Vegetable Curry
 layout: post
+title: No Hurry Vegetable Curry
 ---
 ### Ingredients
 - 1 tablespoon peanut oil

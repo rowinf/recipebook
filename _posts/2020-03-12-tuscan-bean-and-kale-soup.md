@@ -1,6 +1,6 @@
 ---
-title: Tuscan Bean and Kale Soup
 layout: post
+title: Tuscan Bean and Kale Soup
 ---
 # Tuscan Bean and Kale Soup-
 
@@ -19,7 +19,7 @@ layout: post
 - 400g crushed canned or fresh tomatoes in their juice
 - 400g cooked beans, such as cannellini, corona, or cranberry, cooking liquid reserved (from about 175g raw, feel free to use canned beans in a pinch!)
 - 25g freshly grated Parmesan, rind reserved
-- 675-900mL Chicken stock
+- 675-900 mL Chicken stock
 - 2 bunches of kale, thinly sliced
 - 1/2 small head green or Savoy cabbage, core removed and thinly sliced
 
