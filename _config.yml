@@ -1,12 +1,12 @@
 # Permalinks
 permalink:        pretty
-
+exclude:          [themes]
 # Setup
 title:            Mandrake
 tagline:          'A recipe book'
 description:      'Decide what to cook for any meal of the day'
 url:              http://hyde.getpoole.com
-baseurl:          ''
+baseurl:          '/'
 
 author:
   name:           'Robert Irwin'
@@ -16,10 +16,3 @@ paginate:         5
 
 # Custom vars
 version:          2.1.0
-
-# github:
-#   repo:           https://github.com/poole/hyde
-
-collections:
-  recipes:
-    output: true

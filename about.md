@@ -1,18 +1,13 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is a list of recipes accumulated for the author's quick reference. The author loves to cook but is not a professional.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
+You might find some tools to help in planning what to cook.
+
+The author of this website has done their best to cite the sources for all recipes, however if any are found to be missing proper attribution, please contact them.
+
+Built with [jekyll](https://github.com/jekyll/jekyll) /
 [minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll

@@ -6,7 +6,7 @@ layout: page
 ---
 
 <ul>
-{% for recipe in site.recipes %}
-  <li><a href="{{ recipe.url }}">{{ recipe.title }}</a></li>
+{% for post in site.posts %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>

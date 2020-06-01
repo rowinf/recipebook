@@ -45,6 +45,13 @@ html {
   }
 }
 
+:root {
+  --sidebar-text: rgba(74, 74, 74, 0.5);
+  --sidebar-heading: rgb(74, 74, 74);
+  --theme-yellow: #f0ae52; /* #f4bf75 */
+  --theme-orange: #d28445;
+  --theme-red: #ac4142;
+}
 
 /*
  * Sidebar
@@ -56,7 +63,7 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
+  color: var(--sidebar-text);
   background-color: #202020;
 }
 @media (min-width: 48em) {
@@ -72,15 +79,15 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-  color: #fff;
+  color: var(--sidebar-heading);
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #fff;
+  color: var(--sidebar-heading);
   margin-top: 0;
   font-family: "Abril Fatface", serif;
-  font-size: 3.25rem;
+  font-size: 2.75rem;
 }
 
 /* Sidebar nav */
@@ -179,29 +186,29 @@ a.sidebar-nav-item:focus {
 
 /* Red */
 .theme-base-08 .sidebar {
-  background-color: #ac4142;
+  background-color: var(--theme-red);
 }
 .theme-base-08 .content a,
 .theme-base-08 .related-posts li a:hover {
-  color: #ac4142;
+  color: var(--theme-red);
 }
 
 /* Orange */
 .theme-base-09 .sidebar {
-  background-color: #d28445;
+  background-color: var(--theme-orange);
 }
 .theme-base-09 .content a,
 .theme-base-09 .related-posts li a:hover {
-  color: #d28445;
+  color: var(--theme-orange);
 }
 
 /* Yellow */
 .theme-base-0a .sidebar {
-  background-color: #f4bf75;
+  background-color: var(--theme-yellow);
 }
 .theme-base-0a .content a,
 .theme-base-0a .related-posts li a:hover {
-  color: #f4bf75;
+  color: var(--theme-yellow);
 }
 
 /* Green */
