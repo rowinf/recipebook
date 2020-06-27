@@ -1,12 +1,12 @@
 # Permalinks
 permalink:        pretty
-exclude:          [themes, spec, modules]
+exclude:          [themes]
 # Setup
 title:            Recipe book
 tagline:          'A recipe book'
 description:      'Decide what to cook for any meal of the day'
 url:              http://hyde.getpoole.com
-baseurl:          https://rowinf.github.io/recipebook/
+baseurl:          /recipebook
 
 author:
   name:           'Robert Irwin'
