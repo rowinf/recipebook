@@ -6,7 +6,7 @@ title:            Recipe book
 tagline:          'A recipe book'
 description:      'Decide what to cook for any meal of the day'
 url:              http://hyde.getpoole.com
-baseurl:          '/'
+baseurl:          https://rowinf.github.io/recipebook/
 
 author:
   name:           'Robert Irwin'
