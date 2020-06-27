@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Roast Leg of Lamb
+background_image: "/assets/images/comfort-control-cooking-data-213162.jpg"
 ---
-/comfort-control-cooking-data-213162.jpg
+
 
 ### Lamb
 - 2 kg leg of lamb

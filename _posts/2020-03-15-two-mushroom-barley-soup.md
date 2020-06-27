@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Two-Mushroom Barley Soup
+background_image: "/assets/images/food-wood-kitchen-cutting-board-36438.jpg"
 ---
-# Two-Mushroom Barley Soup
 
-/food-wood-kitchen-cutting-board-36438.jpg
 
 ### Ingredients
 - 1 ounce dried mushrooms

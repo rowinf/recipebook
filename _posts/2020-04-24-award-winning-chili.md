@@ -2,6 +2,7 @@
 layout: post
 title: Award Winning Chili
 ---
+
 ### Ingredients
 
 - 1 lb ground venison or 1 lb ground beef or 1 lb ground turkey

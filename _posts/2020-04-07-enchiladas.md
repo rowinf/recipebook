@@ -2,6 +2,7 @@
 layout: post
 title: Enchiladas
 ---
+
 ### Ingredients
 - 1 cup salsa
 - 12 (8") corn tortillas
@@ -29,4 +30,4 @@ title: Enchiladas
 3. Put 1/4 cup of the beef or beans in the centre of each tortilla. Add 2 tablespoons shredded cheese. Roll up and place in baking pan.
 4. When all the enchiladas are in the baking pan, cover with the remaining sauce and cheese. Bake for 15-20 minutes. Remove from the oven and garnish with cilantro.
 
-> The Everything Easy Mexican Cookbook
+> The Everything Easy Mexican Cookbook: Includes Chipotle Salsa, Chicken Tortilla Soup, Chiles Rellenos, Baja-Style Crab, Pistachio-Coconut Flan...and Hundreds More! Paperback – 9 January 2015

@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Buckwheat Pancakes
+background_image: "/assets/images/selective-focus-of-pile-of-pan-cakes-730922.jpg"
 ---
-/selective-focus-of-pile-of-pan-cakes-730922.jpg
+
 
 ### Ingredients
 - 4 rounded tbsp buckwheat flour

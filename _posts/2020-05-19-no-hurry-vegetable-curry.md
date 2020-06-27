@@ -2,6 +2,7 @@
 layout: post
 title: No Hurry Vegetable Curry
 ---
+
 ### Ingredients
 - 1 tablespoon peanut oil
 - 2 large carrots, sliced on a diagonal

@@ -1,6 +1,6 @@
 # Permalinks
 permalink:        pretty
-exclude:          [themes]
+exclude:          [themes, spec, modules]
 # Setup
 title:            Mandrake
 tagline:          'A recipe book'

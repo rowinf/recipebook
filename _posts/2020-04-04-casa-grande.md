@@ -2,6 +2,7 @@
 layout: post
 title: Casa Grande
 ---
+
 ### Ingredients
 - 1 1/2 cups uncooked white rice
 - 1 large bunch fresh spinach

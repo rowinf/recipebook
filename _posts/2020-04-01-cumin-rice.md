@@ -2,6 +2,7 @@
 layout: post
 title: Cumin Rice
 ---
+
 ### Ingredients
 - 1 small onion
 - 1 red bell pepper

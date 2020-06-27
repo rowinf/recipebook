@@ -2,6 +2,7 @@
 layout: post
 title: Blueberry Muffins
 ---
+
 The course crystals of turbinado sugar give these delicate muffins an appealing crunch.
 
 ### Ingredients

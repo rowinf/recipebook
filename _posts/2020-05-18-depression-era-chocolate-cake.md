@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Depression-era Chocolate Cake
+background_image: "/assets/images/homemade-chocolate-cake-in-a-baking-pan-2957897.jpg"
 ---
-# Depression-era Chocolate Cake
 
-/homemade-chocolate-cake-in-a-baking-pan-2957897.jpg
 
 ### Ingredients
 - 1 1/2 cups all-purpose flour

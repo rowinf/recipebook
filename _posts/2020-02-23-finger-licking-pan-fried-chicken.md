@@ -2,6 +2,7 @@
 layout: post
 title: Finger licking pan fried chicken
 ---
+
 ### Ingredients
 - 6 Boneless skinless chicken breasts
 - 100g fine white bread crumbs, homemade or Panko

@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Tuscan Bean and Kale Soup
+background_image: "/assets/images/food-chef-kitchen-soup-66639.jpg"
 ---
-# Tuscan Bean and Kale Soup-
 
-/food-chef-kitchen-soup-66639.jpg
 
 ### Ingredients
 - Extra-virgin olive oil
