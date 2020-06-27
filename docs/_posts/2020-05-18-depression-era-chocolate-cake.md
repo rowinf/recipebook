@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Depression-era Chocolate Cake
-background_image: "/assets/images/homemade-chocolate-cake-in-a-baking-pan-2957897.jpg"
+background_image: assets/images/homemade-chocolate-cake-in-a-baking-pan-2957897.jpg
 ---
 
 

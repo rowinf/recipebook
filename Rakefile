@@ -5,9 +5,9 @@ require 'rake/clean'
 require './modules/utils'
 
 directory '.tmp'
-directory 'assets'
-directory 'assets/images'
-directory '_posts'
+directory 'docs/assets'
+directory 'docs/assets/images'
+directory 'docs/_posts'
 ia_recipes = FileList.new("/Users/rob/Dropbox/iawriter\\ dropbox/recipes/*.md")
 
 CLEAN.include(".tmp/*")
@@ -19,7 +19,7 @@ ia_recipes.each do |src|
   created_at = f.birthtime.strftime('%Y-%m-%d')
   post_filename = "#{created_at}-#{slug}.md"
   target = File.join('.tmp', post_filename)
-  dest = File.join('_posts', post_filename)
+  dest = File.join('docs/_posts', post_filename)
   file target => src do
     cp src, target
     data = Utils.tokenize_content(target)
@@ -40,4 +40,4 @@ ia_recipes.each do |src|
   task :create_output => dest
 end
 
-task :default => ['.tmp', :import_recipes, '_posts', :create_output]
+task :default => ['.tmp', :import_recipes, 'docs/_posts', :create_output]

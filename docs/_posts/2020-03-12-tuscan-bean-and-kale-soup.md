@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tuscan Bean and Kale Soup
-background_image: "/assets/images/food-chef-kitchen-soup-66639.jpg"
+background_image: assets/images/food-chef-kitchen-soup-66639.jpg
 ---
 
 

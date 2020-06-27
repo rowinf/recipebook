@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Buckwheat Pancakes
-background_image: "/assets/images/selective-focus-of-pile-of-pan-cakes-730922.jpg"
+background_image: assets/images/selective-focus-of-pile-of-pan-cakes-730922.jpg
 ---
 
 

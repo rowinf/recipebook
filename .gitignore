@@ -1,8 +1,8 @@
 _site
+docs/themes
+
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
-tmp
 .tmp
-themes

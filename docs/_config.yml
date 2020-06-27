@@ -2,7 +2,7 @@
 permalink:        pretty
 exclude:          [themes, spec, modules]
 # Setup
-title:            Mandrake
+title:            Recipe book
 tagline:          'A recipe book'
 description:      'Decide what to cook for any meal of the day'
 url:              http://hyde.getpoole.com
