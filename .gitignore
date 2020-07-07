@@ -6,3 +6,4 @@ docs/themes
 .jekyll-metadata
 vendor
 .tmp
+.env

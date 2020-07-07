@@ -3,12 +3,15 @@ require 'pathname'
 require 'rake'
 require 'rake/clean'
 require './modules/utils'
+require 'dotenv'
+
+Dotenv.load
 
 directory '.tmp'
 directory 'docs/assets'
 directory 'docs/assets/images'
 directory 'docs/_posts'
-ia_recipes = FileList.new("/Users/rob/Dropbox/iawriter\\ dropbox/recipes/*.md")
+ia_recipes = FileList.new(ENV["RECIPES_PATH"] + "*.md")
 
 CLEAN.include(".tmp/*")
 
