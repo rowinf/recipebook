@@ -4,18 +4,18 @@ title: Vegan Broccoli Rice Casserole
 ---
 
 ### Ingredients
-- 3 1/4 cup / 780 ml unsweetened vegan milk of choice
-- 4 cups / 960 ml flavourful broth/stock
-- 2 cups / 400 g uncooked white long grain rice * see notes for alternatives
-- 1/3 cup / 42 g all purpose flour , (plain flour in the UK). For GF use an all purpose GF flour.
-- 1/2 cup / 56 g nutritional yeast
-- 4 cloves garlic , very finely chopped
+- 3 1/4 cup (780ml) unsweetened vegan milk of choice
+- 4 cups (960ml) flavourful broth/stock
+- 2 cups (400g) uncooked white long grain rice * see notes for alternatives
+- 1/3 cup (42g) all purpose flour (plain flour in the UK)
+- 1/2 cup (56g) nutritional yeast
+- 4 cloves garlic, very finely chopped
 - 1 teaspoon fine salt
 - 1/2 teaspoon freshly ground black pepper
-- 2 / 184 g Field Roast Italian Sausages ** see notes for alternatives
-- 2 large heads fresh broccoli ***
-- 1 cup / 112 g vegan cheese shreds ****
-- 2 tablespoons vegan butter ***** optional 
+- 2 (184g) Field Roast Italian Sausages
+- 2 large heads fresh broccoli
+- 1 cup / 112 g vegan cheese shreds
+- 2 tablespoons vegan butter, optional 
 
 ### Directions
 1. Preheat oven to 375 °F (180 c) and have a 3 quart / 2.8 L ceramic or glass ovenproof dish (roughly 9x13x2inch) ready.
@@ -30,4 +30,4 @@ title: Vegan Broccoli Rice Casserole
 10. Remove from the oven, remove the foil and serve up immediately. 
 
 ##### Source
-> [https://avirtualvegan.com/vegan-broccoli-rice-casserole/](https://avirtualvegan.com/vegan-broccoli-rice-casserole/)
+> [avirtualvegan.com](https://avirtualvegan.com/vegan-broccoli-rice-casserole/)

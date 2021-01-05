@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Two-Mushroom Barley Soup
-background_image: assets/images/food-wood-kitchen-cutting-board-36438.jpg
+background_image: "/assets/images/food-wood-kitchen-cutting-board-36438.jpg"
 ---
 
 

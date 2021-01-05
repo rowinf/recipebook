@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Depression-era Chocolate Cake
-background_image: assets/images/homemade-chocolate-cake-in-a-baking-pan-2957897.jpg
+background_image: "/assets/images/homemade-chocolate-cake-in-a-baking-pan-2957897.jpg"
 ---
 
 
@@ -16,10 +16,10 @@ background_image: assets/images/homemade-chocolate-cake-in-a-baking-pan-2957897.
 - 6 tablespoons vegetable oil
 - 1 cup cooled brewed coffee (or water)
 
-### Instructions:
+### Instructions
 1. Preheat to 375°F. Grease an 8-inch round or square pan.
 2. Mix the flour, cocoa, baking soda, salt and the sugar. Poke three holes into the mix. Pour the vanilla, vinegar, and oil into each hole.
 3. Add the coffee and stir the ingredients until well blended. Add to the pan.
 4. Bake for 35 minutes, or until the top is set but springy. Cool the cake in the pan, then top with the frosting of your choice or enjoy plain.
 
-> [today.com](https://www.today.com/food/depression-cake-or-wacky-cake-making-comeback-t179436)
+> [today.com](https://www.today.com/food/depression-cake-or-wacky-cake-making-comeback-t179436) ˚¬µ≤≥/mm ÷
