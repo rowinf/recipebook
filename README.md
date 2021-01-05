@@ -9,3 +9,7 @@ I've included the source for each recipe, each came from a great resource.
 `$ rake` will rebuild the recipes from the IA Writer source
 
 Commit your changes to master and push to deploy the latest to github pages
+
+Some utilities were written to help parse the content from IA writer. The command to run tests:
+
+`$ rspec --require ./modules/utils.rb spec/`
