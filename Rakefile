@@ -3,9 +3,6 @@ require 'pathname'
 require 'rake'
 require 'rake/clean'
 require './modules/utils'
-require 'dotenv'
-
-Dotenv.load
 
 directory '.tmp'
 directory 'docs/assets'

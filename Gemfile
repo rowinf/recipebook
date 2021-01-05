@@ -33,5 +33,4 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 group :development do
   gem "rspec", "~> 3.9"
-  gem "dotenv"
 end
