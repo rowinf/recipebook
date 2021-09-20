@@ -46,8 +46,8 @@ html {
 }
 
 :root {
-  --sidebar-text: rgba(74, 74, 74, 0.5);
-  --sidebar-heading: rgb(74, 74, 74);
+  --sidebar-text: rgba(255, 255, 255, 0.5);
+  --sidebar-heading: rgb(255, 255, 255);
   --theme-yellow: #f0ae52; /* #f4bf75 */
   --theme-orange: #d28445;
   --theme-red: #ac4142;
