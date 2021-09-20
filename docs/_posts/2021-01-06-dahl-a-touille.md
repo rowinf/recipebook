@@ -27,3 +27,7 @@ title: Dahl-a-touille
 ### Notes
 > Make sure the eggplant is nice and soft before adding the lentils. You do not want uncooked eggplant.
 > Feel free to substitute any beans for the lentils and use a variety of vegetables.
+
+
+##### Source
+> The revive cafe cookbook, Jeremy Dixon, 2013

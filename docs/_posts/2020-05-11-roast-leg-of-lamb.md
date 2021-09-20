@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Roast Leg of Lamb
-background_image: assets/images/comfort-control-cooking-data-213162.jpg
+background_image: "/assets/images/comfort-control-cooking-data-213162.jpg"
 ---
 
 

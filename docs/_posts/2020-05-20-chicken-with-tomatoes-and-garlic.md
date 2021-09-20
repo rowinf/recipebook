@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chicken with Tomatoes and Garlic
-background_image: assets/images/4520759600_e19be76b4c_o.jpg
+background_image: "/assets/images/4520759600_e19be76b4c_o.jpg"
 ---
 
 
