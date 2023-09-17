@@ -9,6 +9,11 @@ directory 'docs/assets'
 directory 'docs/assets/images'
 directory 'docs/_posts'
 
+=begin
+define rake tasks programmatically for copying a collection of
+files to be the content for this blog. rake is used because
+file tasks do automatic change detection.
+=end
 def define_tasks
   CLEAN.include(".tmp/*")
   FileList[ENV["RECIPES"]].each do |src|
@@ -32,14 +37,18 @@ def define_tasks
       end
       Utils.write_post(target, data[:content], fm)
     end
+    desc "copy #{dest} to #{target}"
     file dest => target do
       cp target, dest
     end
+    desc "import_recipes for #{target}"
     task :import_recipes => target
+    desc "create_output for #{dest}"
     task :create_output => dest
   end
 end
 
 define_tasks
 
+desc "import_recipes: a glob of files become the blog posts for this jekyll site"
 task :default => ['.tmp', :import_recipes, 'docs/_posts', :create_output]

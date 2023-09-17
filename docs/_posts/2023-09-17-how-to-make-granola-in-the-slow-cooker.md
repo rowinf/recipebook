@@ -27,5 +27,5 @@ title: How to Make Granola in the Slow Cooker
 7. Cool the granola: Spread the granola out onto a few cookie sheets lined with foil or parchment (for easy transfer later) to encourage cooling. The granola will crisp further as it cools, about 10 to 15 minutes. Once cool, stir in any dried fruit as desired.
 8. Store the granola: Place in an airtight container and store in a cool, dry place. Use within 2 weeks.
 
-## Source
+## **Source**
 [Simply Recipes](https://www.simplyrecipes.com/recipes/how_to_make_granola_in_the_slow_cooker/)
