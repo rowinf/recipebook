@@ -4,11 +4,11 @@
 
 Converts some Markdown files I wrote in IA Writer into a jekyll page so I can reference anywhere when I'm thinking about when to cook and I can share if needed.
 
-I've included the source for each recipe, each came from a great resource.
+I've tried to include the source for each recipe, each came from a great resource.
 
-`$ rake` will rebuild the recipes from the IA Writer source
+`$ rake` will rebuild the recipes from the given file blob. I use a separate markdown editor IA Writer to edit the recipes.
 
-Commit your changes to master and push to deploy the latest to github pages
+Changes to master will be automatically deployed to github pages
 
 Some utilities were written to help parse the content from IA writer. The command to run tests:
 
