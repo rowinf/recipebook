@@ -5,7 +5,7 @@ exclude:          [themes]
 title:            Recipe book
 tagline:          'A recipe book'
 description:      'A book of simple recipes'
-url:              https://rowinf.github.io/recipebook/
+url:              https://rowinf.github.io
 baseurl:          /recipebook/
 
 author:
