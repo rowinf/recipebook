@@ -9,12 +9,9 @@ directory 'docs/assets'
 directory 'docs/assets/images'
 directory 'docs/_posts'
 
-
 def define_tasks
-  ia_recipes = FileList.new(Pathname.new(ENV["RECIPES_PATH"]).glob("*.md"))
   CLEAN.include(".tmp/*")
-  FileUtils.mkdir_p(".tmp")
-  ia_recipes.each do |src|
+  FileList[ENV["RECIPES"]].each do |src|
     f = File.new(src)
     title = File.basename(f, ".*")
     slug = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
