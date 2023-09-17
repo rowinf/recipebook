@@ -10,9 +10,9 @@ directory 'docs/assets/images'
 directory 'docs/_posts'
 
 =begin
-define rake tasks programmatically for copying a collection of
-files to be the content for this blog. rake is used because
-file tasks do automatic change detection.
+define rake tasks for copying a collection of files to be the content for this blog.
+metadata from the source files is used to generate the title and dates.
+rake is used because 'file' tasks automatically detect changes.
 =end
 def define_tasks
   CLEAN.include(".tmp/*")
@@ -24,6 +24,7 @@ def define_tasks
     post_filename = "#{created_at}-#{slug}.md"
     target = File.join('.tmp', post_filename)
     dest = File.join('docs/_posts', post_filename)
+    desc "file task #{src} -> #{target}
     file target => src do
       cp src, target
       data = Utils.tokenize_content(target)
