@@ -10,7 +10,7 @@ baseurl:          /recipebook/
 
 author:
   name:           'Robert Irwin'
-  url:            https://twitter.com/irwinian
+  url:            https://rowinf.github.io
 
 paginate:         5
 
