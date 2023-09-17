@@ -10,9 +10,10 @@ directory 'docs/assets/images'
 directory 'docs/_posts'
 
 
-def define_tasks 
+def define_tasks
   ia_recipes = FileList.new(Pathname.new(ENV["RECIPES_PATH"]).glob("*.md"))
   CLEAN.include(".tmp/*")
+  FileUtils.mkdir_p(".tmp")
   ia_recipes.each do |src|
     f = File.new(src)
     title = File.basename(f, ".*")
