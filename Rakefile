@@ -37,7 +37,7 @@ def define_tasks
       end
       Utils.write_post(target, data[:content], fm)
     end
-    desc "copy #{dest} to #{target}"
+    desc "copy #{target} -> #{dest} "
     file dest => target do
       cp target, dest
     end
