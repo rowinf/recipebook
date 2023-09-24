@@ -24,3 +24,6 @@ title: Tuscan stew with sausage & kale
 3. Add the tomato paste a spoonful at a time, pressing it against the sides of the pot as you stir to eliminate lumps.
 4. Stir in the diced tomatoes, chicken broth, basil, and thyme. Cover and let cook for about 10 minutes.
 5. Toss in the kale and continue cooking for another 10 minutes. Service immediately or keep at a low simmer until ready to ladle into bowls.
+
+### categories
+- Meals

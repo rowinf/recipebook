@@ -25,3 +25,4 @@ title: No Hurry Vegetable Curry
 3. Just before serving, stir in the peas and coconut milk and season with salt. Taste to adjust the seasonings."
 
 > Robertson, Robin. Fresh from the Vegetarian Slow Cooker: 200 Recipes for Healthy and Hearty One-Pot Meals That Are Ready When You Are (p. 124). Harvard Common Press. Kindle Edition.
+

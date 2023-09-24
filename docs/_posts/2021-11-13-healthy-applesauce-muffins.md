@@ -34,3 +34,6 @@ Notes
 
 ##### Source
 [My Homemade Heaven](https://myhomemadeheaven.com/healthy-applesauce-muffins/)
+
+### categories
+Snacks

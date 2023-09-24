@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Apricot Oat Slice
+:title: Apricot Oat Slice
+:background_image:
+category: Desserts
 ---
-
 ### Ingredients
 - 2 400g cans apricots, drained
 - 3 cups date puree (1 1/2 cup water + 1 1/2 cup dates blended)

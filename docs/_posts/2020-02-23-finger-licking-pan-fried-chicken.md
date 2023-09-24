@@ -21,3 +21,4 @@ title: Finger licking pan fried chicken
 7. Cook the breasts over medium-high heat until golden brown, 3 to 4 minutes, then rotate and flip. Cook until the second side is evenly brown, remove from the pan, and drain on the sheet lined with paper towels. (if you're unsure that the meat is cooked all the way through, poke through the breading with a paring knife and check. Return to the pan and cook longer if you see any pink flesh.) Add more clarified butter to the pan as necessary and cook the remaining breasts and tenders in the same way. Sprinkle lightly with salt, and serve immediately.
 
 > *Salt, Fat, Acid, Heat*, by Samin Nosrat
+

@@ -28,3 +28,4 @@ It shouldn't be hard adapting this loaf to your own bread machine; all you need 
 
 ##### Source
 > https://www.kingarthurbaking.com/recipes/100-whole-wheat-bread-for-the-bread-machine-recipe
+

@@ -24,17 +24,16 @@ def define_tasks
     post_filename = "#{created_at}-#{slug}.md"
     target = File.join('.tmp', post_filename)
     dest = File.join('docs/_posts', post_filename)
-    desc "file task #{src} -> #{target}
+    desc "file task #{src} -> #{target}"
     file target => src do
       cp src, target
       data = Utils.tokenize_content(target)
-      image = data[:background_image]
+      image = data['background_image']
       fm = {
         "layout" => 'post',
-        "title" => data[:title]
-      }
+      }.merge(data.except(:content))
       if image
-        fm["background_image"] = "/assets/images#{data[:background_image]}"
+        fm["background_image"] = "/assets/images#{data['background_image']}"
       end
       Utils.write_post(target, data[:content], fm)
     end

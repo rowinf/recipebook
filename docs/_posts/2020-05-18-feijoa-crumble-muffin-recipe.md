@@ -37,3 +37,6 @@ title: Feijoa Crumble Muffin Recipe
 11. Bake for 25 -30 minutes until golden & cooked all the way through.
 
 > [Sugar Sisters NZ](https://www.sugarsistersnz.com/blog/feijoa-crumble-muffin-recipe-egg-dairy-free)
+
+### categories
+Snacks

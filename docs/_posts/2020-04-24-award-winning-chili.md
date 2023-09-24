@@ -28,3 +28,6 @@ title: Award Winning Chili
 4. Serve with toppings.
 
 > [Award Winning Chili](https://www.food.com/recipe/award-winning-chili-105865)
+
+### categories
+Meals

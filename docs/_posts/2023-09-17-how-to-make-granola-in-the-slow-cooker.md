@@ -29,3 +29,6 @@ title: How to Make Granola in the Slow Cooker
 
 ## **Source**
 [Simply Recipes](https://www.simplyrecipes.com/recipes/how_to_make_granola_in_the_slow_cooker/)
+
+### categories
+- Snacks

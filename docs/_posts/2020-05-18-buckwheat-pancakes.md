@@ -23,3 +23,6 @@ background_image: "/assets/images/selective-focus-of-pile-of-pan-cakes-730922.jp
 6. Serve the pancakes in a stack, drizzled with maple syrup or topped with a spoonful of yoghurt and berries. 
 
 > [BBC Food](https://www.bbc.co.uk/food/recipes/buckwheatpancakes_80141)
+
+### categories
+Breakfast

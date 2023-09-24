@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Artisan Sourdough with All Purpose Flour
+:title: Artisan Sourdough with All Purpose Flour
+:background_image:
+category: Snacks
 ---
-
 ### Ingredients
 #### For a small loaf:
 - 50 g (1/4 cup) bubbly, active starter

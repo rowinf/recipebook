@@ -7,10 +7,10 @@ tagline:          'A recipe book'
 description:      'A book of simple recipes'
 url:              https://rowinf.github.io
 baseurl:          /recipebook/
+theme:            minima
 
-author:
-  name:           'Robert Irwin'
-  url:            https://rowinf.github.io
+author:           'Robert Irwin'
+github_username:  rowinf
 
 paginate:         5
 

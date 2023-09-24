@@ -1,0 +1,12 @@
+.post-list h3 {
+  margin-bottom: 0;
+}
+.post-list li {
+  margin-bottom: 8px;
+}
+.post-list .post-link {
+  font-size: 15px;
+}
+.post-list .post-meta {
+  display: none;
+}

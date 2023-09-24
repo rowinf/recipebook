@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Lentil soup with ribbons of kale
+:title: Lentil soup with ribbons of kale
+:background_image:
+category: Meals
 ---
-
 ### Ingredients
 - 1 tablespoon olive oil
 - 1 large yellow onion, chopped

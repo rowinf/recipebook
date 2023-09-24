@@ -25,3 +25,4 @@ Braise chicken in tangy cider viegar with parsnips and sage for a dish you'll cr
 
 ##### Source
 [From the kitchen of Martha Stewart Living ONE POT, 120+ Easy Meals from Your Skillet, Slow Cooker, Stockpot, and More. Editors of Martha Stewart Living](https://martha.com/products/one-pot-120-easy-meals-from-your-skillet-slow-cooker-stockpot-and-more-a-cookbook)
+

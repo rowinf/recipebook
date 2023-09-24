@@ -31,3 +31,4 @@ title: Enchiladas
 4. When all the enchiladas are in the baking pan, cover with the remaining sauce and cheese. Bake for 15-20 minutes. Remove from the oven and garnish with cilantro.
 
 > The Everything Easy Mexican Cookbook: Includes Chipotle Salsa, Chicken Tortilla Soup, Chiles Rellenos, Baja-Style Crab, Pistachio-Coconut Flan...and Hundreds More! Paperback – 9 January 2015
+

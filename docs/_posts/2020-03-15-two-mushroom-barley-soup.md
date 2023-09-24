@@ -26,3 +26,4 @@ background_image: "/assets/images/food-wood-kitchen-cutting-board-36438.jpg"
 4. Serve garnished with the chives.
 
 > Robertson, Robin. Fresh from the Vegetarian Slow Cooker: 200 Recipes for Healthy and Hearty One-Pot Meals That Are Ready When You Are (p. 56). Harvard Common Press. Kindle Edition.
+

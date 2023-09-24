@@ -19,3 +19,6 @@ title: Cumin Rice
 3. Bring to a boil, reduce heat, and cook for 20 minutes or until the rice is tender and the liquid is absorbed.
 
 > The Everything Easy Mexican Cookbook: Includes Chipotle Salsa, Chicken Tortilla Soup, Chiles Rellenos, Baja-Style Crab, Pistachio-Coconut Flan...and Hundreds More! Paperback – 9 January 2015 
+
+### categories
+Meals
